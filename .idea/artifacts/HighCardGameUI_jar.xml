@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HighCardGameUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HighCardGameUI_jar</output-path>
+    <root id="archive" name="HighCardGameUI.jar">
+      <element id="module-output" name="HighCardGameUI" />
+    </root>
+  </artifact>
+</component>
